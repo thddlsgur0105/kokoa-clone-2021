@@ -12,3 +12,7 @@ HTML & CSS are so much fun!
 
 HW-1. 각 user-component에 margin-bottom 관련 속성을 추가하자.
 (채팅방이 많아질 때마다 방 사이의 간격 추가하기)
+
+# 질문
+
+1. img 태그는 display: inline; 인데 width, height 적용 가능 = (?)
