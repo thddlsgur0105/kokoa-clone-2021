@@ -19,12 +19,3 @@
     left: 10px;
     bottom: 10px;
 }
-.nav__dot {
-    background-color: #FF6229;
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    position: absolute;
-    right: -5px;
-    top: -5px;
-}
