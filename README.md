@@ -10,6 +10,10 @@ HTML & CSS are so much fun!
 
 3. 대부분의 경우, height와 width가 auto로 지정된 절대 위치 지정 요소(position: absolute; / position: fixed;)는 자신의 콘텐츠에 맞춰 크기가 바뀝니다.
 
+4. "구조상" 양식이 같은 html 구성요소들의 css를 하나의 component로 구성해서 깔끔하게 적용하자.
+
+5. 구조는 비슷할 지라도 기능상의 차이가 있는 html 구성요소들은 다른 css를 적용하자.
+
 # Homework
 
 HW-1. 각 user-component에 margin-bottom 관련 속성을 추가하자.
