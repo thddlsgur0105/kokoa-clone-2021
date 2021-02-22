@@ -23,6 +23,11 @@ HW-1. 각 user-component에 margin-bottom 관련 속성을 추가하자.
 
 1. img 태그는 display: inline; 인데 width, height 적용 가능 = (?)
 
+2. .status-bar 부분의 top: 0; 왜 반드시 추가해야 하는지, alt-header 와 다른 부분 고민..
+   > display: fixed; 때문에 생기는 layer 문제?
+
 # 생각
 
 1. styles.css에 모든 css들을 import한 후에 이를 각각의 html에 적용하는 과정에 대해 좀 깊이 팔 필요가 있음.
+
+2. #6.29 Chat Screen part Two (10:03) 다시 코딩해보면서 이해하자.

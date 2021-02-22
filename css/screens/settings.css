@@ -14,6 +14,3 @@
 .settings__setting-column:last-child {
     opacity: 0.5;
 }
-.alt-header__column:last-child span:last-child {
-    margin-left: 10px;
-}
