@@ -22,3 +22,7 @@ HW-1. 각 user-component에 margin-bottom 관련 속성을 추가하자.
 # 질문
 
 1. img 태그는 display: inline; 인데 width, height 적용 가능 = (?)
+
+# 생각
+
+1. styles.css에 모든 css들을 import한 후에 이를 각각의 html에 적용하는 과정에 대해 좀 깊이 팔 필요가 있음.
