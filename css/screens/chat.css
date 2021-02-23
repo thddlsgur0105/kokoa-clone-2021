@@ -98,19 +98,18 @@
     width: 100%;
     border: var(--main-border);
     border-radius: 20px;
-}
-.reply input::placeholder {
-    text-indent: 10px;
+    padding: 18px;
+    box-sizing: border-box;
 }
 .reply__column:last-child > i,
 .reply__column:last-child button {
     position: absolute;
-    top: 2px;
-    right: -3px;
+    top: 3px;
+    right: 5px;
 }
 .reply__column:last-child > i {
-    right: 40px;
-    top: 10px;
+    right: 45px;
+    top: 12px;
 }
 .reply__column button {
     background-color: var(--yellow);
