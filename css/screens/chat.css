@@ -191,7 +191,7 @@
     transform: translateY(50px);
 }
 
-.reply:focus-within input {
+.reply input:focus {
     width: 95vw;
     transform: translateX(-13%) translateY(-50px);
 }

@@ -1,0 +1,18 @@
+#no-landscape {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--yellow);
+    font-size: 20px;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (orientation: portrait) {
+    #no-landscape {
+        display: none;
+    }
+}
