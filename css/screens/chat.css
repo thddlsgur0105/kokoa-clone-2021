@@ -1,5 +1,5 @@
 #chat-screen {
-    background-color: #abc1d1;
+    background-color: var(--whiteblue);
     height: 500vh;
 }
 #chat-screen .alt-header {
@@ -7,7 +7,6 @@
     top: 0;
     width: 100%;
     box-sizing: border-box;
-    background-color: #abc1d1;
 }
 
 @keyframes fadeIn {
@@ -32,7 +31,7 @@
 }
 .status-chat-bar {
     padding-bottom: 15px;
-    background-color: #abc1d1;
+    background-color: #f9f9fa;
 }
 .chat__timestamp {
     color: #fff;

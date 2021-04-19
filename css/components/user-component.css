@@ -1,6 +1,16 @@
 .user-component {
     justify-content: space-between;
+    background-color: var(--white);
+    padding: 10px;
+    border-radius: 20px;
+    transition: all .3s ease-in-out;
 }
+
+.user-component:hover {
+    box-shadow: 5px -5px var(--heavygray-color);
+    transform: translate(-5px, 5px);
+}
+
 .user-component,
 .user-component__column:first-child {
     display: flex;
@@ -25,7 +35,7 @@
     color: var(--heavygray-color);
 }
 .user-component__subtitle i {
-    color: #FF9489;
+    color: #00d2d3;
 }
 .user-component__avatar--xl {
     width: 80px;
