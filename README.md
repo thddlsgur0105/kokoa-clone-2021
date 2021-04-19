@@ -31,3 +31,6 @@ HW-1. 각 user-component에 margin-bottom 관련 속성을 추가하자.
 1. styles.css에 모든 css들을 import한 후에 이를 각각의 html에 적용하는 과정에 대해 좀 깊이 팔 필요가 있음.
 
 2. #6.29 Chat Screen part Two (10:03) 다시 코딩해보면서 이해하자.
+
+# 4/19
+ Something changed
