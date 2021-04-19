@@ -2,6 +2,7 @@
 
 @import "reset.css";
 @import "variables.css";
+@import "animation.css";
 
 /* Components */
 @import "components/status-bar.css";
